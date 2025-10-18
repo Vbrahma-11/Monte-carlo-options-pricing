@@ -20,9 +20,7 @@ This project calculates the fair value of stock options (contracts that give you
 
 - Python 3.8+
 - CUDA-capable GPU (I used RTX 4070)
-- These packages:
-  
-pip install torch numpy matplotlib scipy pandas
+- These packages: torch, numpy, matplotlib, scipy, pandas
 
 
 ## How to Run
@@ -77,4 +75,4 @@ I wanted to learn about quantitative finance and GPU programming. Options pricin
 - GitHub: @VBrahma-11
 - Email: Vbrahma@andrew.cmu.edu
 
-Thank you for viewing and appreciating my project!
+Thank you for viewing and appreciating my project. I had an incrediable time developing this. Feel free to reach out wiht any questions or comments!
