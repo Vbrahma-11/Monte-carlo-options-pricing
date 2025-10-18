@@ -1,6 +1,6 @@
 # Monte Carlo Options Pricing Engine
 
-A GPU-accelerated project that prices stock options using Monte Carlo simulation. Built with Python and PyTorch.
+A project that prices stock options using Monte Carlo simulation. Built with Python and PyTorch.
 
 ## What This Does
 
