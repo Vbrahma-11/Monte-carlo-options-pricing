@@ -21,13 +21,13 @@ This project calculates the fair value of stock options (contracts that give you
 - Python 3.8+
 - CUDA-capable GPU (I used RTX 4070)
 - These packages:
-```bash
+  
 pip install torch numpy matplotlib scipy pandas
-```
+
 
 ## How to Run
 
-Open `options_pricing_monte_carlo.ipynb` in Jupyter Notebook and run the cells in order (1 through 8).
+Open options_pricing_monte_carlo.ipynb in Jupyter Notebook and run the cells in order (1 through 8).
 
 
 ## What I Learned
