@@ -68,9 +68,8 @@ I wanted to learn about quantitative finance and GPU programming. Options pricin
 - QuantPy (Youtube)
 - Black-Scholes and Longstaff-Schwartz papers
 
-## Disclaimer
 
-This is an educational project. Not intended for actual trading.
+## Disclaimer - Please dont actualy use this to trade, this was a fun educational personal project!
 
 ## Contact
 
