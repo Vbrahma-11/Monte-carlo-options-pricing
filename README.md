@@ -44,7 +44,7 @@ The notebook has 8 cells:
 3. **European Options** - Price options that can only be exercised at expiration
 4. **Black-Scholes** - Compare Monte Carlo to the exact formula
 5. **Greeks** - Calculate risk sensitivities (Delta, Gamma, and more)
-6. **American Options** - Price options with early exercise using LSA
+6. **American Options** - Price options with early exercise using LSM
 7. **Sensitivity Analysis** - See how prices change with different inputs
 8. **Pricing Interface** - Complete tool for pricing any option
 
